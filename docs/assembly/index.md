@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Assembly Overview
 summary: Introduction to assembling E34M1.
 authors: Jon Harper
 date: 2023-4-8
@@ -8,6 +8,10 @@ date: 2023-4-8
 This guide covers assembly of a basic E34M1 build with a Rapido hotend, Sherpa Mini extruder, and BLTouch probe.
 
 You should have your Mercury One build's X axis extrusion and linear rail assembled before following this guide. It is recommended that you include routing and securing the belts as part of the E34M1 build process, and will be prompted to do so.
+
+!!! note "Beacon and Cartographer Users"
+    These ABL types are not directly covered in this guide. Install your Beacon or Cartographer Low Profile probes according to the
+    developer's documentation before starting E34M1 assembly.
 
 ## :material-printer-3d-nozzle: Print Checklist
 
